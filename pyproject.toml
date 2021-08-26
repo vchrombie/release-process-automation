@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "calculator"
-version = "0.0.0"
+version = "0.1.0"
 description = "sample project code"
 authors = [
     "Venu Vardhan Reddy Tekula <venuvardhanreddytekula8@gmail.com>"
