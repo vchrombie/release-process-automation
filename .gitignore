@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+build
+dist
+release_tools.egg-info
+__pycache__
+.venv
+.idea
